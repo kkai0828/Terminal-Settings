@@ -76,3 +76,6 @@ Then follow the p10k configuration wizard, if it doesn't show up.
 
 [My zshrc](https://github.com/kkai0828/Terminal-Settings/blob/main/.zshrc)
 
+# Nvim Settings
+[check here](https://github.com/kkai0828/.dotfiles)
+
